@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.relateddigital:relateddigital-android:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/66aa787dedf28f10df31771a19ee0683/jetified-relateddigital-android-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/66aa787dedf28f10df31771a19ee0683/jetified-relateddigital-android-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/66aa787dedf28f10df31771a19ee0683/jetified-relateddigital-android-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.relateddigital/relateddigital-android/1.0.0/e49070f470783f7d60feec931571173279dd1346/relateddigital-android-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
